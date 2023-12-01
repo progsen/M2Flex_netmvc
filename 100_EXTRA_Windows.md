@@ -21,7 +21,7 @@ zag je wat er op het plaatje stond?
 ## WINDOWS met visual studio:
 
 #### project openen:
-- dubbel click op het 01 start.csproj
+- dubbel click op het newssite.csproj
     - visual studio opent
     > ![](img/visualstudio.PNG)
 
