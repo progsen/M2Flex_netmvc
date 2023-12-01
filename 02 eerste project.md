@@ -1,6 +1,16 @@
 
-## repository
+## Json...
 
+Json is leuk maar vaak komt data uit een database
+
+- open een terminal in je `01 start`
+    - type `dotnet add package Microsoft.Data.Sqlite`
+    - type `dotnet add package Microsoft.EntityFrameworkCore`
+    > hier halen we een code library van het internet en koppelen we die aan ons project
+
+
+///Microsoft.EntityFrameworkCore.SqlServer
+> [https://learn.microsoft.com/en-us/dotnet/standard/data/sqlite/?tabs=netcore-cli](https://learn.microsoft.com/en-us/dotnet/standard/data/sqlite/?tabs=netcore-cli)
 - maak een repository:
     - `M2flex_ASP`
 - clone die naar je PC
@@ -53,6 +63,13 @@
 
 - je krijg nu de site:
     > ![](img/site.PNG)
+
+
+#### WINDOWS
+
+- heb je windows? dan mag je vanaf nu visual studio gebruiken:
+> dat ontwikkeld sneller
+[100_EXTRA_Windows.md](./100_EXTRA_Windows.md)
 
 ## Klaar?
 
