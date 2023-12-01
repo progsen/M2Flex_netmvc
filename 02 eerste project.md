@@ -1,22 +1,11 @@
+## startup
 
-## Json...
-
-Json is leuk maar vaak komt data uit een database
-
-- open een terminal in je `01 start`
-    - type `dotnet add package Microsoft.Data.Sqlite`
-    - type `dotnet add package Microsoft.EntityFrameworkCore`
-    > hier halen we een code library van het internet en koppelen we die aan ons project
-
-
-///Microsoft.EntityFrameworkCore.SqlServer
-> [https://learn.microsoft.com/en-us/dotnet/standard/data/sqlite/?tabs=netcore-cli](https://learn.microsoft.com/en-us/dotnet/standard/data/sqlite/?tabs=netcore-cli)
 - maak een repository:
     - `M2flex_ASP`
 - clone die naar je PC
 
 - maak in die `M2flex_ASP`  een nieuwe directory:
-    - `01 start`
+    - `newssite`
 - maak een `.gitignore` file
     - zet daar het volgende in:
     ```
@@ -33,22 +22,22 @@ Json is leuk maar vaak komt data uit een database
 .net heeft veel verschillende project types, wij gebruiken nu even de `MVC` variant
 
 - maak een nieuwe directory:
-    - `01 start`
+    - `newssite`
     - `screenshots`
 - open je terminal/cmd
-    - ga naar je `01 start` directory
+    - ga naar je `newssite` directory
     - type `dotnet new mvc`
     > ![](img/newproject.PNG)
 
 
 ## openen:
 
-- open de directory `01 start` in visual studio code:
+- open de directory `newssite` in visual studio code:
     > ![](img/macvisual.PNG)
 
 ## draaien
 
-- ga naar je `01 start` directory
+- ga naar je `newssite` directory
 - in je terminal type :
     - `dotnet build`
     > ![](img/build.PNG)
