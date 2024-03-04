@@ -61,7 +61,7 @@ dat moet ook nog:
 > #### UITLEG
 > - nu moeten we de `HomeController` aanpassen
 > - we hadden:
->![](img/getnews.PNG)
+>![](img/oldhome.PNG)
 
 - maak daar het volgende van:
     >![](img/newhome.PNG)
